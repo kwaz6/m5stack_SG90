@@ -4,3 +4,4 @@ Connection cables are triple cables.
 1. Duty signal port is PIN16.
 2. 5V
 3. GND
+Programming is conducted on Arduino IDE.
